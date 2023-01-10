@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Araratian</h1>
 <h3 align="center">Frontend developer from Ukraine</h3>
-<img align='right' alt="Coding" width='300' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Javascript, ReactJs**
 
